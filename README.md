@@ -78,6 +78,14 @@ Principais análises:
 Link do Dashboard:
 https://datastudio.google.com/reporting/24c2438c-288c-4a57-99e9-431eb9567106
 
+## Dashboard Principal
+
+![Dashboard Principal](imagens/dashboard_principal.png)
+
+## Análises Complementares
+
+![Análises Complementares](imagens/analises_complementares.png)
+
 ## Autor
 
 Arthur Guilherme Mendes do Nascimento
